@@ -1,6 +1,7 @@
 # University-Projects
 
-```📂 Semester 1
+```
+📂 Semester 1
  ○ 💻 Algorithms and Programming
 📂 Semester 2
  ○ 💻 Object Oriented Programming
@@ -9,4 +10,4 @@
  ○ 💻 Computer Systems Architecture
  ○ 💻 Advanced Programming Methods
  ○ 💻 Databases
- ○ 💻 Public Key Cryptography```
+ ○ 💻 Public Key Cryptography
