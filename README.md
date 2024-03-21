@@ -8,6 +8,6 @@
  ○ 💻 Data Structures and Algorithms
 📂 Semester 3
  ○ 💻 Computer Systems Architecture
- ○ 💻 [Advanced Programming Methods](https://github.com/SpatariuIoanGabriel/University-Projects/tree/main/Advanced%20Programming%20Methods)https://github.com/SpatariuIoanGabriel/University-Projects/tree/main/Advanced%20Programming%20Methods
+ ○ 💻 Advanced Programming Methods
  ○ 💻 Databases
  ○ 💻 Public Key Cryptography
