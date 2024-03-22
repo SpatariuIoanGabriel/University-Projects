@@ -1,6 +1,6 @@
 # University-Projects
 
-
+```
 📂 Semester 1
  ○ 💻 Algorithms and Programming
 📂 Semester 2
@@ -9,5 +9,7 @@
 📂 Semester 3
  ○ 💻 Computer Systems Architecture
  ○ 💻 Advanced Programming Methods
+```
  ○ 💻 [Databases](https://github.com/SpatariuIoanGabriel/University-Projects/tree/main/Databases)
+ 
  ○ 💻 Public Key Cryptography
