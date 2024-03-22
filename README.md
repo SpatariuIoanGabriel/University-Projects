@@ -1,6 +1,6 @@
 # University-Projects
 
-```
+
 📂 Semester 1
  ○ 💻 Algorithms and Programming
 📂 Semester 2
