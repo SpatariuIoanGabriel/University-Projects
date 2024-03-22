@@ -9,5 +9,5 @@
 📂 Semester 3
  ○ 💻 Computer Systems Architecture
  ○ 💻 Advanced Programming Methods
- ○ 💻 [Databases](https://github.com/SpatariuIoanGabriel/University-Projects/tree/main/Databases)https://github.com/SpatariuIoanGabriel/University-Projects/tree/main/Databases
+ ○ 💻 [Databases](https://github.com/SpatariuIoanGabriel/University-Projects/tree/main/Databases)
  ○ 💻 Public Key Cryptography
